@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Software Engineer at NVIDIA.
 - ☕ Backend developer with hands-on experience in **Java 17** and **Spring Boot**.
-- 🔐 Designed and implemented secure REST APIs with Spring Security, JWT-based authentication, and role-based authorization (RBAC), following a clean layered architecture.
 - 🎓 B.Tech in Computer Science & Engineering from NIT Hamirpur (CGPA: 9.17/10).
 - 🏆 Competitive Programmer: Codeforces Expert (max 1684), 3000+ problems solved across platforms.
 
@@ -42,14 +41,22 @@ Here are some ideas to get you started:
 
 ## GitHub Dashboard
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact" />
+## GitHub Dashboard
+
+<p align="right">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true"
+    width="500"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact"
+    width="500"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
-<p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Deepanshu-Syal" />
-</p>
 
 ---
-
