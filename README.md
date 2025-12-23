@@ -41,21 +41,16 @@ Here are some ideas to get you started:
 
 ## GitHub Dashboard
 
+| Stats | Top Languages |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true" width="420" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact" width="420" /> |
 
-<p align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true"
-    width="430"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact"
-    width="430"
-    height="170"
-    alt="Top Languages"
-  />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Deepanshu-Syal" width="860" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 ---
