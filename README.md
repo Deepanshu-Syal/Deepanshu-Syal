@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 |:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true" width="420" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact" width="420" /> |
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Deepanshu-Syal" width="860" alt="GitHub Streak" />
-  </a>
-</p>
 
 
 
