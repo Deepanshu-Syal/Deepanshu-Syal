@@ -41,18 +41,17 @@ Here are some ideas to get you started:
 
 ## GitHub Dashboard
 
-## GitHub Dashboard
 
 <p align="right">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true"
-    width="500"
+    width="430"
     height="170"
     alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact"
-    width="500"
+    width="430"
     height="170"
     alt="Top Languages"
   />
