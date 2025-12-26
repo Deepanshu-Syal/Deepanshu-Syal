@@ -38,14 +38,10 @@ Here are some ideas to get you started:
 
 ---
 
+## 📊 GitHub Dashboard
 
-## GitHub Dashboard
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true&theme=github_dark)
 
-| Stats | Top Languages |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true" width="420" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact" width="420" /> |
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact&theme=github_dark)
 
 ---
