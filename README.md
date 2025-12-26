@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Dashboard
+![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Syal&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact&theme=github_dark)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Syal&layout=compact&theme=github_dark)
 
 ---
